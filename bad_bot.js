@@ -1,0 +1,1 @@
+console.log("I am a bad bot and I gonna destroy this pathetic world, LOL")
